@@ -1,0 +1,17 @@
+{
+  "name": "ctf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chainsafe/dappeteer": "^2.2.0",
+    "puppeteer": "^11.0.0",
+    "ramda": "^0.27.1"
+  }
+}
